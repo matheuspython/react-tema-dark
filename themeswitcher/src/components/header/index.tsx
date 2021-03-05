@@ -1,0 +1,10 @@
+import React from 'react'
+import {Container} from './styles'
+const Header: React.FC = ()=>{
+  return(
+    <Container>
+      hello word
+    </Container>
+  )
+}
+export default Header
